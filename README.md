@@ -14,7 +14,7 @@ Driven by a growing passion for cybersecurity, I aim to build the skills require
 | Skill           | Associated Experience / Project     |
 |-----------------|-------------------------------------|
 | Python          | CTF scripting, automation exercises |
-| Web Security    | CTF web challenges                  |
+| Web Security    | <a href = "https://github.com/ilyass71/PIN-Code-Combinator-Generator/tree/main"> CTF scripting, automation exercises </a> |
 | Reconnaissance  | Hack The Box labs                   |
 | Enumeration     | Using tools like nmap, curl, ffuf   |
 | Problem Solving | Capture The Flag competitions       |
@@ -37,4 +37,4 @@ Driven by a growing passion for cybersecurity, I aim to build the skills require
 </div>
 
 ## Projects
-- PIN Code Combinator Generator
+- <a href = "https://github.com/ilyass71/PIN-Code-Combinator-Generator/tree/main"> Pin-Code-Generator </a>
